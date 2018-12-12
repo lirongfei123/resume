@@ -3,13 +3,12 @@
 - Email：rongping.lrp@gmail.com
 
 # 个人信息
-
+ - 在线简历地址: [https://lirongfei123.github.io/resume/](https://lirongfei123.github.io/resume/)
  - 李荣平/男/1990 
  - 本科/成都信息工程学院
  - 工作年限：6年
  - 技术博客：[http://blog.mlife.top](http://blog.mlife.top)
  - Github：[https://github.com/lirongfei123](https://github.com/lirongfei123)
- - 在线简历地址: [https://lirongfei123.github.io/resume/](https://lirongfei123.github.io/resume/)
  - 期望职位：资深前端，前端Leader
  - 期望薪资：税前月薪45k~50k
  - 期望城市：北京/杭州/深圳
