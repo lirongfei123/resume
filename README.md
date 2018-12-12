@@ -51,7 +51,9 @@
 当时为此项目编写了一个Chrome插件, 可以做到UI图的100%还原, 插件地址:[切页面对齐工具](https://chrome.google.com/webstore/detail/%E5%88%87%E9%A1%B5%E9%9D%A2%E5%AF%B9%E9%BD%90%E5%B7%A5%E5%85%B7/dhckigagpcmlfobcpnlmflgfhhogndkb)
 
 测试账号：admin@0656073
+
 测试密码：12qwaszx 
+
 测试地址：[https://web.jingoal.com/#calendar](https://web.jingoal.com/#calendar)
 
 ## 索贝数码 （ 2013年6月 ~ 2014年8月 ）
@@ -60,6 +62,7 @@
 
 一些例子：
 [昆明网络电视台](http://www.kmetv.com/)
+
 [奉贤网络电视台](http://www.fengxiantv.com )
 
 ## 在校作品
@@ -70,11 +73,14 @@
 负责整个项目的思路，设计，前端，服务端, 亮点在于自己参照ThinkPHP, 重写了其路由系统, 自己开发了一个简化版的PHP框架, 并手写了一个富文本编辑器, 从此进入前端的核心领域, 因为当时写了富文本编辑器之后, 感觉已经没有什么能拦到自己的技术难点了.
 
 访问地址：https://www.mlife.top/project/esshop/
+
 演示账号：testuser
+
 演示密码：12qwaszx
 
 ### 成都信访局项目
 校实验室接的政府项目, 成都市在线信访, 我负责整个项目的前端开发, 实际没啥亮点, 不过算是自己做的第一个商业应用.
+
 访问地址: http://www.cdxfsys.gov.cn/index.action
 
 # 开源项目和自创工具
@@ -83,16 +89,19 @@
 
 项目截图：
 ![脑图截图](http://interview-public.oss-cn-beijing.aliyuncs.com/naotu.png)
+
 访问地址：https://naotu.mlife.top
 ## 一站式Mock工具
 可以做到整个开发过程不在区分Mock阶段和在线调试阶段，可以都在Mock工具系统里面完成, 也是日常开发必备工具
 
 项目截图:
 ![项目截图](http://interview-public.oss-cn-beijing.aliyuncs.com/CgoB5lwQvk2AEg2nAAD1AGeSBq0942.jpg)
+
 访问地址：https://github.com/lirongfei123/mocktd
 
 ## React-redux替代方案
 延用Vuex的语法，并做了改进，完美适用于React，大大降低了React开发难度, 目前已经应用到本部门的项目开发
+
 访问地址：https://github.com/lirongfei123/react-state-pro
 
 # 技能清单
