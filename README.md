@@ -50,11 +50,11 @@
 
 当时为此项目编写了一个Chrome插件, 可以做到UI图的100%还原, 插件地址:[切页面对齐工具](https://chrome.google.com/webstore/detail/%E5%88%87%E9%A1%B5%E9%9D%A2%E5%AF%B9%E9%BD%90%E5%B7%A5%E5%85%B7/dhckigagpcmlfobcpnlmflgfhhogndkb)
 
+访问地址：[https://web.jingoal.com/#calendar](https://web.jingoal.com/#calendar)
+
 测试账号：admin@0656073
 
 测试密码：12qwaszx 
-
-测试地址：[https://web.jingoal.com/#calendar](https://web.jingoal.com/#calendar)
 
 ## 索贝数码 （ 2013年6月 ~ 2014年8月 ）
 索贝是一家为各个地方电视台开发用于电视节目展示的视频网站的公司   
