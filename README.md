@@ -5,7 +5,7 @@
 # 个人信息
  - 在线简历地址: [https://lirongfei123.github.io/resume/](https://lirongfei123.github.io/resume/)
  - 李荣平/男/1990 
- - 本科/成都信息工程学院
+ - 本科/成都信息工程学院/软件工程
  - 工作年限：6年
  - 技术博客：[http://blog.mlife.top](http://blog.mlife.top)
  - Github：[https://github.com/lirongfei123](https://github.com/lirongfei123)
