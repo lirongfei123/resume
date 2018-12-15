@@ -19,8 +19,7 @@
 
 ### 工作内容
 业务方向负责开发阿里云工单平台，以及阿里云内部客服工作台
-
-技术上负责业务所有项目的前端研发工作, 技术指导, 以及技术选型, 负责做了一个大型的平台架构方案
+技术上负责业务所有项目的前端研发工作, 负责每个新产品的整个前后端实现架构方案, 为团队内部解决前端疑难问题, 新技术的布道和引入, 负责做了一个大型的平台架构方案, 包括开发脚手架, 搭建代码Review流程, 自动化部署发布流程
 
 ### 项目
 
@@ -111,7 +110,7 @@
 - 后端能力：Golang/PHP/Node/NestJs
 - 前端框架：React/AngularJS/Vue/RequireJS/Electron/Typescript/Rxjs/ES6
 - 前端工具：Webpack/Grunt/Gulp
-- 其他: Linux/Photoshop/Gerrit/Jenkins/Svn/Git/设计模式/UML
+- 其他: Linux/Photoshop/Gerrit/Jenkins/Svn/Git/设计模式/UML/Fiddler/Squid
 
 # 读过源码的库
 React/Webpack/AngularJS/SeaJS
